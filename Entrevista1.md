@@ -8,7 +8,7 @@
 ### COMPRA DE LIBROS -> Normalmente por encargo de profesores
 
 ### DIRECTORA -> 
-		- Recibe los libros de los proveedores
+		* Recibe los libros de los proveedores
 		- Hace los pedidos
 		- Recibe los encargos
 		- Entrega los libros
