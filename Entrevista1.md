@@ -1,13 +1,13 @@
 
 
 
-### ENTREVISTA 1
+# ENTREVISTA 1
 
 ## CATALOGACIÓN -> Cada vez que se compra un libro, se registra en el fondo bibliográfico como fichas del archivo con sus copias
 
-# COMPRA DE LIBROS -> Normalmente por encargo de profesores
+### COMPRA DE LIBROS -> Normalmente por encargo de profesores
 
-# DIRECTORA -> 
+### DIRECTORA -> 
 		- Recibe los libros de los proveedores
 		- Hace los pedidos
 		- Recibe los encargos
@@ -15,7 +15,7 @@
 		- 
 
 
-# AUXILIAR ->
+### AUXILIAR ->
 		- Recibe los libros de la directora
 		- Hace la ficha
 		- Los coloca en orden
