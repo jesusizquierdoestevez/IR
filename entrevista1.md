@@ -1,6 +1,7 @@
 # ENTREVISTA 1
 
-##= CATALOGACIÓN
+## CATALOGACIÓN
+==
 - Cada vez que se compra un libro, se registra en el fondo bibliográfico como fichas del archivo con sus copias
 
 ## COMPRA DE LIBROS 
