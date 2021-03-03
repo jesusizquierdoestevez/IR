@@ -117,8 +117,12 @@ Tienes derecho a ddar tu opinión, a no entender a preguntar, a equivocarse.
 (Esto no importa mucho)
 
 
+----
 
+# Situación 3.
 
-
+1. Asertivo
+2. Inhibido
+3. Asertivo - Agresivo
 
 
