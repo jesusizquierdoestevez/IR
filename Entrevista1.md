@@ -125,3 +125,36 @@
 - Facilidad de uso
 - Acceder desde todos los sitios, no restriccion de acceso por ubicación.
 
+---------
+
+
+# DATOS FORMULARIOS
+
+## DESIDERATA
+- Nombre
+- Apellidos
+- Titulo
+- Autores
+- Nº ejemplares
+- Precio estimado
+
+## FORMULARIO DE RESERVA
+- Nombre y apellidos
+- Titulo
+- Fecha
+
+## DOCUMENTOS CITADOS EN LAS ENTREVISTAS
+
+- Nombre
+- Apellidos
+- Codigo
+- Titulo
+- Autores
+- Fecha préstamo
+
+
+
+
+
+
+
