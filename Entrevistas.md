@@ -32,17 +32,6 @@
 ### COMPRA DE LIBROS 
 - Normalmente por encargo de profesores
 
-### FICHAS DE LOS LIBROS
-- Deben contener
- - Titulo
- - Autores
- - Materias
- - Editorial
- - Nº Páginas
- - Tamaño de los libros
- - Tipo de encuadernación
- - Materiales adicionales. _Ej: "CDROM o disquete"_
- 
  
  ### CAJETINES
  - En estos se ordenan las fichas
