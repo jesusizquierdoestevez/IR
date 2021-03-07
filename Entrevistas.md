@@ -1,4 +1,5 @@
 
+# Análisis de las entrevistas y obtención de información.
 
 ### PRINCIPALES ACTIVIDADES DIRECTORA 
 - Recibe los libros de los proveedores
@@ -143,7 +144,7 @@
 - Titulo
 - Fecha
 
-## DOCUMENTOS CITADOS EN LAS ENTREVISTAS
+## Ficha.
 
 - Nombre
 - Apellidos
