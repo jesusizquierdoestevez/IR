@@ -82,16 +82,13 @@ Ninguna interrupcíon en el diálogo y el contacto visual. Costoso para la trans
 grabación.
 
 ![imagen](https://user-images.githubusercontent.com/55484111/110674773-8508e500-81d2-11eb-9a80-e1a89aeb6b5c.png)
-
-
 ![imagen](https://user-images.githubusercontent.com/55484111/110675063-cc8f7100-81d2-11eb-828d-777a8bd8913b.png)
-
-
 ![imagen](https://user-images.githubusercontent.com/55484111/110675292-02345a00-81d3-11eb-86eb-efcdc775d2aa.png)
+![imagen](https://user-images.githubusercontent.com/55484111/110675494-3c9df700-81d3-11eb-9758-e8b759eccd35.png)
 
+![imagen](https://user-images.githubusercontent.com/55484111/110675836-a0c0bb00-81d3-11eb-84e4-a648fa88f17b.png)
 
-
-
+![imagen](https://user-images.githubusercontent.com/55484111/110675957-bf26b680-81d3-11eb-88a0-4f8f57a10cd8.png)
 
 
 
