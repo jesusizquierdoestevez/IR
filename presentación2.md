@@ -52,6 +52,7 @@ sus casos de uso más relevantes.
 
 ## Trabajo 5:
 ## RUP y RATIONAL ROSE
+## Autor: Cristian Gonzalez 
 - El trabajo ha tocado los siguientes apartados:
 - ¿Qué es RUP? Rational Unified Process (Proceso Unificado Racional).
 - Historia Desde Ericson approach hasta RUP 
@@ -64,6 +65,25 @@ sus casos de uso más relevantes.
 - ¿Qué es Rational Rose? Herramienta de diseño orientada a objetos
 - Interfaz de Rational Rose
 - Caso práctico
+
+
+## Trabajo 6:
+## Ingenieria Inversa
+## Rafael Egea Jurado (YO)
+
+En la presentacion hize una introduccion, hable sobre los procesos de la ingenieria inversa, hice una revision de las herramientas mas usadas (desambladores, 
+decompiladores, CASE, depuradores), propusimos una metodologia, expusimos las principales usos y mostramos un caso practico.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
